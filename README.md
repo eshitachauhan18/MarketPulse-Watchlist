@@ -1,4 +1,4 @@
-Groww-Watchlist
+MarketPulse-Watchlist
 
 Smart stock monitoring, watchlist intelligence, and portfolio analytics for Indian and US markets.
 
