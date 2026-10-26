@@ -2,7 +2,7 @@ MarketPulse-Watchlist
 
 Smart stock monitoring, watchlist intelligence, and portfolio analytics for Indian and US markets.
 
-Groww-Watchlist is a smart market-watch application designed to reduce information overload for investors. Instead of forcing users to continuously monitor every stock, the application highlights meaningful market movements, explains why a stock deserves attention, and provides portfolio-level insights in one place.
+MarketPulse-Watchlist is a smart market-watch application designed to reduce information overload for investors. Instead of forcing users to continuously monitor every stock, the application highlights meaningful market movements, explains why a stock deserves attention, and provides portfolio-level insights in one place.
 
 🚀 Overview
 
@@ -86,7 +86,7 @@ Provides price information, trend visualization, score breakdown, historical con
 
 🏗️ Project Structure
 
-Groww-Watchlist/
+MarketPulse-Watchlist/
 ├── backend/
 │   ├── app/
 │   │   ├── providers/
@@ -163,8 +163,8 @@ Do not commit sensitive information to GitHub. Keep API keys, access tokens, pas
 
 1. Clone the repository
 
-git clone https://github.com/eshitachauhan18/Groww-Watchlist.git
-cd Groww-Watchlist
+git clone https://github.com/eshitachauhan18/MarketPulse-Watchlist.git
+cd MarketPulse-Watchlist
 
 2. Create a virtual environment
 
@@ -197,7 +197,7 @@ http://127.0.0.1:5501/index.html
 
 📌 Example Workflow
 
-Open Groww-Watchlist.
+Open MarketPulse-Watchlist.
 
 Select Indian Exchange or US Exchange.
 
@@ -221,7 +221,7 @@ Export portfolio data when required.
 
 Investors face information overload because financial markets generate a large amount of constantly changing data. Simply displaying hundreds of stock prices does not answer the important question: Which change is meaningful enough to investigate?
 
-Groww-Watchlist addresses this by combining market signals, configurable sensitivity, scoring, portfolio analytics, and explainable insights into one interface.
+MarketPulse-Watchlist addresses this by combining market signals, configurable sensitivity, scoring, portfolio analytics, and explainable insights into one interface.
 
 💡 Solution
 
@@ -231,12 +231,12 @@ This helps make market monitoring faster, more focused, and easier to understand
 
 ⚠️ Disclaimer
 
-Groww-Watchlist is an educational/project application and is not financial advice. Market data may be delayed, cached, or unavailable depending on the data provider. Attention scores and recommendations should not be treated as guaranteed predictions or investment recommendations. Users should independently verify information before making financial decisions.
+MarketPulse-Watchlist is an educational/project application and is not financial advice. Market data may be delayed, cached, or unavailable depending on the data provider. Attention scores and recommendations should not be treated as guaranteed predictions or investment recommendations. Users should independently verify information before making financial decisions.
 
 📄 Hackathon Submission
 
-Project: Groww-Watchlist
-Repository: https://github.com/eshitachauhan18/Groww-Watchlist
+Project: MarketPulse-Watchlist
+Repository: https://github.com/eshitachauhan18/MarketPulse-Watchlist
 
 👩‍💻 Author
 
@@ -247,4 +247,4 @@ B.Tech — Computer Science (Artificial Intelligence)
 
 Don't watch every stock. Watch what matters.
 
-Groww-Watchlist aims to evolve from a market dashboard into an intelligent personal market-monitoring assistant that learns what matters to each investor and presents the most relevant information at the right time.
+MarketPulse-Watchlist aims to evolve from a market dashboard into an intelligent personal market-monitoring assistant that learns what matters to each investor and presents the most relevant information at the right time.
